@@ -1,2 +1,2 @@
 # dtn1
-exercise on jbotsim for ANET @ UPMC
+Assignment on jbotsim for ANET @ UPMC
